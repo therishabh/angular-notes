@@ -13,7 +13,7 @@ Used Angular features in below code:
 
 <img width="1192" height="795" alt="Screenshot 2026-08-25 at 8 42 09 PM" src="https://github.com/user-attachments/assets/a107d8dc-e20f-4db8-856d-62e855393ed3" />
 
-LINK : [Code__Task-Board-Component.md]
+LINK : [Task Board Component](https://github.com/therishabh/angular-notes/blob/main/Code__Task-Board-Component.md)
 
 
 -------
