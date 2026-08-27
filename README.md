@@ -54,5 +54,5 @@ proper use dikhata hai.
 ## Screenshot : 
 <img width="1042" height="730" alt="Screenshot 2026-08-27 at 1 11 52 PM" src="https://github.com/user-attachments/assets/472522d4-b2ed-4514-bc4d-4626a40e4212" />
 
-LINK : Shopping Cart Component[sho.md]
+LINK : [Shopping Cart Component](https://github.com/therishabh/angular-notes/blob/main/Code__Shopping-Cart-Component.md)
 
